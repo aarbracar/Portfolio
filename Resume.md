@@ -1,8 +1,6 @@
 
 Aaron Bradley Carroll
 Expected Graduation Date: May 2020
-aarbracar@gmail.com
-618-698-0035
 
 Objective: An internship allowing me to experience working with modern machine learning tools in a research or professional environment.
 
